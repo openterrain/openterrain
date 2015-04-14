@@ -18,9 +18,6 @@ This work requires finding and stitching together many different data sets. But 
 #### Submit open terrain data sources.
 Were are collecting as many sources as possible on the project's [wiki page, here](https://github.com/openterrain/openterrain/wiki/Terrain-Data).  
 
-#### Contribute to our code repo, Vapor Clock
-Vapor Clock creates terrain tiles, and is our hub for the stitching mechanisms we'll use to bring all these data sets together. [The repo can be found here](https://github.com/stamen/vapor-clock). 
-
 #### Follow us on Tumblr
 We're posting updates & screenshots on our Tumblr, [openterrain.tumblr.com](http://openterrain.tumblr.com). It's our hub for documenting this process publicly. 
 
