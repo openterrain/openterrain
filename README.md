@@ -8,6 +8,22 @@ In 2010, Stamen was awarded a Knight News Grant to build tools that help people 
  * Transfer the hosting and processing to a cloud-based infrastructure to increase stability, scalability, server response and service levels, creating more reliability and confidence for those considering using the tile sets, & to allow for more frequent data updates
  * Improving the accessibility and openness of the code base for the whole system
 
-You can help out by adding terrain data sources to the [wiki page here](https://github.com/openterrain/openterrain/wiki/Terrain-Data).
+## Our Mission
+Our mission for this project is to collect the best available freely-available terrain datasets for the entire world, and developing the cloud-based tools and workflow to process that data. We also aim to produce some lovely lush terrain maps with the data.
 
-We also have a [Tumblr blog](http://openterrain.tumblr.com) where we will document the process of collecting the best available freely-available terrain datasets for the entire world, and developing the cloud-based tools and workflow to process that data.
+This work requires finding and stitching together many different data sets. But what are they? Where are they? We need your help to make this global terrain map the best that it can be.
+
+## Here's what you can do to help!
+
+#### Submit open terrain data sources.
+Were are collecting as many sources as possible on the project's [wiki page, here](https://github.com/openterrain/openterrain/wiki/Terrain-Data).  
+
+#### Contribute to our code repo, Vapor Clock
+Vapor Clock creates terrain tiles, and is our hub for the stitching mechanisms we'll use to bring all these data sets together. [The repo can be found here](https://github.com/stamen/vapor-clock). 
+
+#### Follow us on Tumblr
+We're posting updates & screenshots on our Tumblr, [openterrain.tumblr.com](http://openterrain.tumblr.com). It's our hub for documenting this process publicly. 
+
+## Got questions? Comments? Ideas?
+Get in touch!
+openterrain@stamen.com // @stamen
