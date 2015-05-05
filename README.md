@@ -1,5 +1,7 @@
 # openterrain
 
+[![Join the chat at https://gitter.im/openterrain/openterrain](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openterrain/openterrain?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Project Summary
 
 In 2010, Stamen was awarded a Knight News Grant to build tools that help people tell better stories about cities. In 2014 we were awarded another grant from Knight to extend and support this project, as follows:
