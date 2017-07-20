@@ -7,7 +7,7 @@
 In 2010, Stamen was awarded a Knight News Grant to build tools that help people tell better stories about cities. In 2014 we were awarded another grant from Knight to extend and support this project, as follows:
 
  * Terrain layers, at all zoom levels, outside the US
- * Transfer the hosting and processing to a cloud-based infrastructure to increase stability, scalability, server response and service levels, creating more reliability and confidence for those considering using the tile sets, & to allow for more frequent data updates
+ * Transfer the hosting and processing to a cloud-based infrastructure to increase stability, scalability, server response and service levels, creating more reliability and confidence for those considering using the tile sets & to allow for more frequent data updates
  * Improving the accessibility and openness of the code base for the whole system
 
 ## Our Mission
@@ -17,7 +17,7 @@ This work requires finding and stitching together many different data sets. But 
 
 ## Here's what you can do to help!
 
-#### Submit open terrain data sources.
+#### Submit open terrain data sources
 Were are collecting as many sources as possible on the project's [wiki page, here](https://github.com/openterrain/openterrain/wiki/Terrain-Data).  
 
 #### Follow us on Tumblr
